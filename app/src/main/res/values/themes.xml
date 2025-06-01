@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SafeRide" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!--<item name="android:statusBarColor">@android:color/transparent</item>-->
+        <item name="android:colorPrimary">@color/Gray</item>
+        <item name="android:colorPrimaryDark">@color/Gray</item>
+    </style>
+
+    <style name="Theme.SafeRide" parent="Base.Theme.SafeRide" />
+
+    <style name="Theme.SafeRide.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.SafeRide.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.SafeRide.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

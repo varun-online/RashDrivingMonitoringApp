@@ -1,0 +1,15 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background Image -->
+
+    <!-- Gradient Overlay -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#E2A516C1"
+                android:centerColor="#E040FB"
+                android:endColor="#040404"
+                android:gradientRadius="400"
+                android:type="radial"/>
+        </shape>
+    </item>
+</layer-list>

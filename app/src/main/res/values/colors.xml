@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="Gray">#60817A</color>
+    <color name="dsky">#35DBB7</color>
+    <color name="light_background">#FAFAFA</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="blue">#0095F6</color>
+    <color name="black">#000000</color>
+    <color name="teal_700">#018786</color>
+    <color name="forgot_password_color">#1E90FF</color> <!-- A vibrant blue -->
+    <color name="signup_text_color">#4CAF50</color> <!-- A green shade -->
+    <color name="red">#ED1B1B</color>
+    <color name="nav_item_color">#FF5722</color>
+    <color name="orange">#FF5722</color>
+    <color name="blue1">#7989FA</color>
+    <color name="blue2">#4A58DD</color>
+    <color name="Blue">#603AEF</color>
+    <color name="purple">#382198</color>
+    <color name="light_blue">#E9E8FA</color>
+</resources>
