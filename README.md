@@ -41,3 +41,7 @@ This project is an **Android-based application** integrated with an **ESP32 micr
 - Android Studio
 - Arduino IDE
 - Firebase Account
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
